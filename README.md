@@ -1,11 +1,10 @@
 # Welcome to HotelMania (Codepath Project 1)
-<img src="" />
+<img src="https://github.com/Avila-Angel/codepathProject1/blob/main/codepathProject1/src/assets/hotelManiaLogo.png" width="500px"/>
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Functionality](#functionality)
-* [Figma Design](#figma-design)
 * [Video Demonstration](#video-demonstration)
 * [Setup](#setup)
 * [Learn More](#learn-more)

@@ -42,7 +42,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [X] The site is responsive for both desktop and mobile formats
 
 
 ## Video Demonstration

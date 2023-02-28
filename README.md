@@ -28,7 +28,7 @@ This project is created with:
 * Main Page - Displays reusable containers that has a "book" button that takes the user to the actual listing
 
 ## Video Demonstration
-
+<img src="https://github.com/Avila-Angel/codepathProject1/blob/main/codepathProject1/src/assets/hotelManiaDemo.gif" />
 
 ## Setup
 

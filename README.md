@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Functionality](#functionality)
+* [Requred Features](#required-features)
 * [Video Demonstration](#video-demonstration)
 * [Setup](#setup)
 * [Learn More](#learn-more)
@@ -14,21 +15,42 @@
 
 
 ## General info
-HotelMania is a web application that displays high rating hotel listings
+Submitted by: **Angel Avila**
+
+Description: HotelMania is a web application that displays high rating hotel listings.
+
+Time spent: **6** hours spent in total
+
 
 ## Technologies
 This project is created with:
-* CSS
 * React
-
+* CSS
 
 ## Functionality
 <b />
 
 * Main Page - Displays reusable containers that has a "book" button that takes the user to the actual listing
 
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
+
+The following **optional** features are implemented:
+
+- [X] Buttons or links to a related resources are on each card component
+- [ ] The site is responsive for both desktop and mobile formats
+
+
 ## Video Demonstration
+Here's a walkthrough of implemented required features:
 <img src="https://github.com/Avila-Angel/codepathProject1/blob/main/codepathProject1/src/assets/hotelManiaDemo.gif" />
+
+
+(GIF created with ...  [Kap](https://getkap.co/) for macOS)
 
 ## Setup
 
